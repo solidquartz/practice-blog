@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Top 10 Bubble Tea",
+      "body": "I tried every bubble tea shop in Toronto and can confidently say that these are the best places to get bbt.",
+      "author": "Aky",
+      "id": 1
+    },
+    {
+      "title": "My New Website",
+      "body": "This is my new site where I reviewed React. I hope you like it!",
+      "author": "Khulan",
+      "id": 2
+    },
+    {
+      "title": "Autumn in Japan",
+      "body": "You can experience beautiful autumn colours and nice temperatures while Canada is getting snowed on!",
+      "author": "Aky",
+      "id": 3
+    }
+  ]
+}
